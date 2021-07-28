@@ -2,7 +2,7 @@
   background-color: #264653;
 }
 
-.heading-1-color {
+#first-heading-color {
   color: #ffffff;
 }
 
@@ -13,4 +13,12 @@
 .button-bg {
   background-color: #e76f51;
   color: #ffffff;
+}
+
+.grayscale img {
+  filter: grayscale(100%);
+}
+
+.span-heading-color {
+  color: #e76f51;
 }
